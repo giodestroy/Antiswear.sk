@@ -1,0 +1,29 @@
+#Devved By Giodestroy
+on chat:
+	replace all "Cazzo" in message with "Ca**o"
+	replace all "Minchia" in message with "Min**ia"
+	replace all "Frocio" in message with "Fro**o"
+	replace all "Negro" in message with "Ne**o"
+	replace all "Stronzo" in message with "Str**zo"
+	replace all "Finocchio" in message with "Fino***io"
+	replace all "Gay Del Cazzo" in message with "G*y D*l Ca**o"
+	replace all "Gay Di Merda" in message with "G*y D* Me**a"
+	replace all "Coglione" in message with "Co***one"
+	replace all "Ne Gro" in message with "Ne**o"
+	replace all "Frociazzo" in message with "Frocia**o"
+	replace all "Rincoglionito" in message with "Rinco***nito"
+	replace all "Ca zzo" in message with "Ca**o"
+	replace all "C@zzo" in message with "Ca**o"
+	replace all "Minch ia" in message with "Min**ia"
+	replace all "Minchi@" in message with "Min**ia"
+	replace all "Bastard" in message with "Bast**d"
+	replace all "Troi" in message with "T**i"
+	replace all "Puttana" in message with "Pu**ana"
+	replace all "Dio Cane" in message with "D*o Ca**e"
+	replace all "Dio Bastardo" in message with "D*o Bas**rdo"
+	replace all "Impiccati" in message with "Impi**ati"
+	replace all "Suicidati" in message with "Suici**ti"
+	replace all "Sgozz" in message with "Sgo**"
+	
+	
+	
